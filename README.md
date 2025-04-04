@@ -1,4 +1,4 @@
-# File Type Sorter
+# auto files cluster
 
 This is a simple Bash script that organizes files in a given folder by their file types (based on their extensions). It moves each file into a new folder named after its extension.
 
